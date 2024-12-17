@@ -20,7 +20,7 @@
 		"react-page-visibility": "^7.0.0",
 		"react-router-dom": "^6.28.0",
 		"react-use": "^17.5.1",
-		"react-use-websocket": "^4.10.1",
+		"react-use-websocket": "^4.11.1",
 		"zustand": "^4.5.5"
 	},
 	"devDependencies": {
