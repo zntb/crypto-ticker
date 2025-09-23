@@ -9,7 +9,7 @@
     "@dnd-kit/utilities": "^3.2.2",
     "@tanstack/query-sync-storage-persister": "^5.85.5",
     "@tanstack/react-query": "^5.84.2",
-    "@tanstack/react-query-persist-client": "^5.85.5",
+    "@tanstack/react-query-persist-client": "^5.85.6",
     "@uidotdev/usehooks": "^2.4.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
